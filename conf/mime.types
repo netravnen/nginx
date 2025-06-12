@@ -83,6 +83,7 @@ types {
     application/octet-stream                         ova;
     application/octet-stream                         txz;
     application/octet-stream                         xz;
+    application/octet-stream                         zim;
 
     audio/midi                                       mid midi kar;
     audio/mpeg                                       mp3;
