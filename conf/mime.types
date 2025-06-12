@@ -80,6 +80,7 @@ types {
     application/octet-stream                         lz;
     application/octet-stream                         lzma;
     application/octet-stream                         msi msp msm;
+    application/octet-stream                         ova;
 
     audio/midi                                       mid midi kar;
     audio/mpeg                                       mp3;
