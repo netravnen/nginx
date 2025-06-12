@@ -77,6 +77,8 @@ types {
     application/octet-stream                         dmg;
     application/octet-stream                         gz;
     application/octet-stream                         iso img;
+    application/octet-stream                         lz;
+    application/octet-stream                         lzma;
     application/octet-stream                         msi msp msm;
 
     audio/midi                                       mid midi kar;
