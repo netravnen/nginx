@@ -81,6 +81,7 @@ types {
     application/octet-stream                         lzma;
     application/octet-stream                         msi msp msm;
     application/octet-stream                         ova;
+    application/octet-stream                         txz;
 
     audio/midi                                       mid midi kar;
     audio/mpeg                                       mp3;
